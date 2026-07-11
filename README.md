@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:414868&height=140&section=header&text=Harsh%20Bhatt&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Quant%20Finance%20%C2%B7%20ML%2FAI%20Systems%20%C2%B7%20Full-Stack&descSize=16&descColor=a9b1d6&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:414868&height=140&section=header&text=Harsh%20Bhatt&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Developer&descSize=16&descColor=a9b1d6&descAlignY=65)
 
 </div>
 
