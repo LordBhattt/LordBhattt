@@ -46,7 +46,7 @@
 %@%%%%%%%@%@@%%@%%@@@@@@@@@@@@@@@%#%##**++==-------=+*#%@@@@@%**##**#%%%***#%%%%###*+
 ```
 
-### harsh@spit
+### HARSH BHATT
 
 </div>
 
@@ -57,14 +57,14 @@ Kernel: ............ B.Tech Computer Engineering, Minor in Financial & Strategic
 Uptime: ............ 2023 - 2027
 Shell: ............. bash
 
-Languages: ......... Python, SQL, C++, JavaScript/TypeScript, HTML
+Languages: ......... Python, SQL, JavaScript, HTML
 Frameworks: ........ FastAPI, React, PyTorch, scikit-learn, CVXPY, Pandas, NumPy
 Databases: ......... PostgreSQL, MongoDB, MySQL, Redis, Neo4j, TimescaleDB
 Infra: ............. Docker, Kafka, Git, GitHub Actions, CI/CD, Terraform
 
 Contact -----------
 Email: ............ harsh31bhatt@gmail.com
-LinkedIn: ......... [add your LinkedIn]
+LinkedIn: ......... linkedin.com/in/harshbhattt
 Portfolio: ........ harsh--bhatt.vercel.app
 GitHub: ........... github.com/LordBhattt
 LeetCode: ......... leetcode.com/u/fallensoldier
