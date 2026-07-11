@@ -94,6 +94,15 @@ LeetCode: ......... leetcode.com/u/fallensoldier
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LordBhattt&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LordBhattt&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=LordBhattt&theme=tokyonight&hide_border=true)
 
 </div>
+
+<!--
+  github-readme-stats.vercel.app (the original public instance) has been unreliable
+  since late 2025 due to rate limits — swapped to its maintained fork above.
+  If the Streak card ever goes down too, swap the domain to:
+  https://github-readme-streak-stats-eight.vercel.app?user=LordBhattt
+-->
